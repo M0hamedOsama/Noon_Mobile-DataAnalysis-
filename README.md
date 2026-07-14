@@ -32,11 +32,16 @@ The objective of this project is to extract actionable insights from mobile devi
 
 ## 📊 Dashboards & Visualizations
 
-Explore our interactive dashboards to visualize the data:
+### 1. Power BI Dashboard
+![Power BI Analytics](powerbi.png)
 
-*   [**Excel Analytics Dashboard**](#) *(Link/Image Placeholder)*
-*   [**Power BI Interactive Report**](#) *(Link/Image Placeholder)*
-*   [**Tableau Mobile Market Analysis**](#) *(Link/Image Placeholder)*
+### 2. Tableau Dashboard
+![Tableau Analysis](tableau.png)
+
+### 3. Excel Dashboard
+![Excel Insights](excel.png)
+
+---
 
 ---
 
